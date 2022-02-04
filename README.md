@@ -1,0 +1,2 @@
+# Surdo
+Surdo tili uchun
